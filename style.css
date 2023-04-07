@@ -22,7 +22,8 @@ h3 {
 }
 
 .navbar-brand {
-    font-size: 24px;
+    font-size: 1.5rem;
+    white-space: normal;
     color: #333;
 }
 
@@ -117,7 +118,7 @@ h3 {
     height: 700px;
 }
 
- .carousel-item img {
+.carousel-item img {
     height: 100%;
 }
 
@@ -201,6 +202,6 @@ h3 {
     }
 
     .whatsapp-float i {
-        font-size:80px;
+        font-size: 80px;
     }
 }
